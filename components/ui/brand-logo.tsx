@@ -12,7 +12,7 @@ export function BrandLogo({
   return (
     <>
       <Image
-        src="/remake.svg"
+        src="/chat.svg"
         alt=""
         width={32}
         height={32}
